@@ -11,3 +11,6 @@ This web application utilizes machine learning to recognize Katakana characters 
 **Model Training:**
 
 The Katakana recognition model was trained on a own custom dataset of Katakana images. 
+
+**GUI:**
+<img src="Picture2.PNG" alt="JavaPaint Screenshot">
